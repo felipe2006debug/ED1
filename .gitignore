@@ -1,0 +1,9 @@
+# Ignora tudo
+*
+
+# Mas não ignore os arquivos .c
+!*.c
+
+# Não ignore o próprio .gitignore e o README
+!.gitignore
+!README.md
