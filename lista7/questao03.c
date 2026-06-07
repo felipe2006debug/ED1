@@ -2,7 +2,7 @@
 Nome: Felipe Novaes Silva
 Matrícula: 54881
 Lista: 7
-Exercício: 2
+Exercício: 3
 
 3. Escreva uma função iterativa que conta o número de folhas de uma árvore binária.
 ****************************************************************************************************/
