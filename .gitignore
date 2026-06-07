@@ -4,6 +4,9 @@
 # Mas não ignore os arquivos .c
 !*.c
 
+# Não ignore diretórios (para o Git conseguir entrar na pasta lista7)
+!*/
+
 # Não ignore o próprio .gitignore e o README
 !.gitignore
 !README.md
